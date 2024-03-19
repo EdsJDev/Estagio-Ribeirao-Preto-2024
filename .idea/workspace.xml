@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aac00e9a-12f0-44db-b197-486055a60a36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EstagioRibeiraoPreto_2024.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Estagio_Ribeirao_Preto_2024_Class_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/Exercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/Exercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/Exercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/Exercicio5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/Exercício4.java" afterDir="false" />
-    </list>
+    <list default="true" id="aac00e9a-12f0-44db-b197-486055a60a36" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -48,14 +40,14 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Bruno/Documents/IntelliJProjetos/EstagioRibeiraoPreto_2024/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "EstagioRibeiraoPreto",
+    "onboarding.tips.debug.path": "C:/Users/Bruno/Documents/IntelliJProjetos/EstagioRibeiraoPreto_2024/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Estagio_Ribeirao_Preto_2024_Class_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main.Estagio_Ribeirao_Preto_2024_Class_Main" />
