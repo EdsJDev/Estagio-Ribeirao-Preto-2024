@@ -56,9 +56,10 @@ public class Estagio_Ribeirao_Preto_2024_Class_Main {
         System.out.println("Leta f:");
         System.out.println("A resposta para essa questão é 200, pois todos os números começam comm a inicial D");
         // resposta letra F: A resposta para essa questão é 200, pois todos os números começam comm a inicial D
-        System.out.println();
+
 
         System.out.println("----------------------");
+        System.out.println();
         System.out.println("---- EXERCÍCIO 4 ----");
         Exercício4 exercício4 = new Exercício4();
         System.out.println("Resolução: " + exercício4.interruptores());
@@ -66,7 +67,9 @@ public class Estagio_Ribeirao_Preto_2024_Class_Main {
          e em seguida ligamos o interruptor 2 e vamos até a primeira sala. A lâmpada que estiver acesa corresponde
          ao interruptor 2, a que estiver quente ao interruptor 1, e a lâmpada que resta só pode ser do interruptor 3
         */
+
         System.out.println("----------------------");
+        System.out.println();
         System.out.println("---- EXERCÍCIO 5 ----");
         Exercicio5 exercicio5 = new Exercicio5();
         System.out.println("Palavra invertida: " + exercicio5.InversorDeString());
