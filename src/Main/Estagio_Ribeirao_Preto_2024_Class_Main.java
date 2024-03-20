@@ -2,9 +2,6 @@ package Main;
 
 import exercicios.*;
 
-import java.sql.SQLOutput;
-import java.util.Scanner;
-
 public class Estagio_Ribeirao_Preto_2024_Class_Main {
     public static void main(String[] args) {
         // código dos exercicios está no pacote exercicios dentro da classe respectiva ao exercício
