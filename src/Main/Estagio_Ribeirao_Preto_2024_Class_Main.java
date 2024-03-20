@@ -21,9 +21,9 @@ public class Estagio_Ribeirao_Preto_2024_Class_Main {
         Exercicio2 exercicio2 = new Exercicio2();
         System.out.println("---- EXERCÍCIO 2 ----");
         if (exercicio2.isFibonacci() == true){
-            System.out.println("O número informado pertence à sequência");
+            System.out.println("O número informado pertence a sequência");
         }else{
-            System.out.println("O número informado não pertence à sequência");
+            System.out.println("O número informado não pertence a sequência");
         }
         // resposta do exercicio 2 está na classe Exercicio2
 
