@@ -2,8 +2,6 @@ package exercicios;
 
 public class Exercício4 {
 
-
-
     public Exercício4() {
     }
 

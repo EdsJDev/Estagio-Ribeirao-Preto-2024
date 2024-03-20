@@ -9,8 +9,6 @@ public class Exercicio5 {
     public Exercicio5() {
     }
 
-
-
     public String InversorDeString(){
         Scanner sc = new Scanner(System.in);
         System.out.println("Digite uma string: ");
@@ -29,5 +27,4 @@ public class Exercicio5 {
         }
         return inverso;
     }
-
 }

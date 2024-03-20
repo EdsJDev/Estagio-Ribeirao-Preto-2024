@@ -72,9 +72,5 @@ public class Estagio_Ribeirao_Preto_2024_Class_Main {
         System.out.println("Palavra invertida: " + exercicio5.InversorDeString());
         // resposta letra 5: está na classe Exercicio5
         System.out.println("----------------------");
-
-
-
-
     }
 }
