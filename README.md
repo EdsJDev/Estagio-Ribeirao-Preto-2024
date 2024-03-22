@@ -3,7 +3,7 @@ fiz os exercícios com a classe main chamando os métodos das classes dos exerc�
 acredito que dessa forma bem separado será mais fácil a vizualização do conteúdo. 
 A classe main basicamente está com os prints das respostas, pois todo código de resolução está dentro das classes exercícios.
 
-Classe Main: 
+Classe main: 
   Estagio_Ribeirao_Preto_2024_Class_Main
 
 Classes exercícios: 
